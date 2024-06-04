@@ -1,9 +1,9 @@
 To run this project on your system
 
 
-# run command - npm i
+# npm i (to install all the dependenices)
 
-# run command - npm start
+# run command - npm start(to start the project at your local host)
 
 
 
@@ -11,3 +11,5 @@ To run this project on your system
 
 
 CSS framework - Tailwind
+
+deployed link - https://moviefix-three.vercel.app/
